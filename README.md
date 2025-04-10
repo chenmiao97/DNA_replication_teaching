@@ -5,7 +5,7 @@
 ## 在线访问
 
 你可以通过以下链接直接访问应用：
-[https://chenmiao97.github.io/dna-replication-teaching/](https://chenmiao97.github.io/dna-replication-teaching/)
+[https://chenmiao97.github.io/DNA-replication-teaching/](https://chenmiao97.github.io/DNA_replication_teaching/)
 
 ## 使用方法
 
@@ -22,7 +22,7 @@
 4. 在Source下拉菜单中选择main分支
 5. 点击Save保存设置
 6. 等待几分钟，GitHub会自动部署你的网站
-7. 你可以通过`https://你的用户名.github.io/仓库名称`访问应用
+7. 你可以通过`https://chenmiao97.github.io/DNA-replication-teaching`访问应用
 
 ## 功能说明
 
@@ -57,3 +57,10 @@
 - 移动设备上的体验可能与桌面设备有所不同
 - 建议使用现代浏览器（Chrome, Firefox, Safari, Edge等）
 - 如果在移动设备上访问，建议使用横屏模式 
+
+## 联系方式
+本项目由上海华政附高生物教师陈淼开发，仅供教育目的使用，欢迎教师、学生和生物学爱好者使用与改进。
+
+如有问题或建议，请[创建issue](https://github.com/chenmiao97/PCR_teaching/issues)或直接联系项目维护者。
+
+---
