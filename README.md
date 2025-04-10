@@ -7,23 +7,6 @@
 你可以通过以下链接直接访问应用：
 [https://chenmiao97.github.io/DNA-replication-teaching/](https://chenmiao97.github.io/DNA_replication_teaching/)
 
-## 使用方法
-
-### 本地运行（开发环境）
-
-1. 克隆或下载本仓库到本地
-2. 直接打开`dna_replication_web/index.html`文件即可使用应用
-
-### 部署到GitHub Pages（让互联网上的任何人访问）
-
-1. Fork或克隆本仓库
-2. 进入仓库设置 (Settings)
-3. 找到Pages选项 (GitHub Pages)
-4. 在Source下拉菜单中选择main分支
-5. 点击Save保存设置
-6. 等待几分钟，GitHub会自动部署你的网站
-7. 你可以通过`https://chenmiao97.github.io/DNA-replication-teaching`访问应用
-
 ## 功能说明
 
 这个应用模拟DNA复制过程，包括以下主要功能：
