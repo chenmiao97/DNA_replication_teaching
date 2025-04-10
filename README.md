@@ -5,7 +5,7 @@
 ## 在线访问
 
 你可以通过以下链接直接访问应用：
-[https://chenmiao97.github.io/DNA-replication-teaching/](https://chenmiao97.github.io/DNA_replication_teaching/)
+[https://chenmiao97.github.io/DNA_replication_teaching/](https://chenmiao97.github.io/DNA_replication_teaching/)
 
 ## 功能说明
 
