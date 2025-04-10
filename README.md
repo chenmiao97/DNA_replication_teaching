@@ -31,12 +31,9 @@
 - 桌面浏览器（Chrome, Firefox, Safari, Edge等）
 - 移动设备浏览器（建议使用横屏模式）
 
-## 注意事项
-
-本应用使用了p5.js和hammer.js库，加载时可能需要稳定的网络连接。
-
 ## 使用提示
 
+- 本应用使用了p5.js和hammer.js库，加载时可能需要稳定的网络连接。
 - 移动设备上的体验可能与桌面设备有所不同
 - 建议使用现代浏览器（Chrome, Firefox, Safari, Edge等）
 - 如果在移动设备上访问，建议使用横屏模式 
@@ -44,6 +41,6 @@
 ## 联系方式
 本项目由上海华政附高生物教师陈淼开发，仅供教育目的使用，欢迎教师、学生和生物学爱好者使用与改进。
 
-如有问题或建议，请[创建issue](https://github.com/chenmiao97/PCR_teaching/issues)或直接联系项目维护者。
+如有问题或建议，请[创建issue](https://github.com/chenmiao97/DNA_replication_teaching/issues)或直接联系项目维护者。
 
 ---
